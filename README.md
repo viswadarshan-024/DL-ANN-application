@@ -44,7 +44,7 @@ Access the app in your browser at [ann-predict-application](https://ann-predict-
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/yourusername/churn-prediction-app.git](https://github.com/viswadarshan-024/DL-ANN-application.git)
+   git clone https://github.com/viswadarshan-024/DL-ANN-application.git
    cd churn-prediction-app
    ```
 
